@@ -1,0 +1,5 @@
+Ranking TOP 100 graczy:
+Nazwa gracza: Marta, Saldo: 382
+Nazwa gracza:    Olek, Saldo: 261
+Nazwa gracza:   Maciek, Saldo: 138
+Nazwa gracza:  Kamil, Saldo: 119

@@ -1,0 +1,18 @@
+# ninja log v5
+616	709	1729497009257129987	Casino	48728819ae5ace8e
+4	1019	1729494370642418315	CMakeFiles/Casino.dir/main.cpp.o	c1f9698c6b0ce10e
+0	78	1729497113906800784	build.ninja	ae800f0438da039c
+10	824	1729493946478978267	CMakeFiles/Casino.dir/src/JednorekiBandyta.cpp.o	53ed308386bf46b9
+4	541	1729494115619261502	CMakeFiles/Casino.dir/src/Ruletka.cpp.o	c26b06a8f597354d
+10	787	1729493946441128439	CMakeFiles/Casino.dir/src/Gracz.cpp.o	9d08b345de6d7d25
+9	815	1729493946470912116	CMakeFiles/Casino.dir/src/Logowanie.cpp.o	bbcfe19b7c85c854
+3	616	1729497009161326061	CMakeFiles/Casino.dir/src/Menu.cpp.o	aa1a5e5c9ca3d557
+3	411	1729496000942957261	CMakeFiles/Casino.dir/src/BlackJack.cpp.o	27efb8f344ed3ea4
+8	848	1729497125437830101	CMakeFiles/Casino.dir/src/JednorekiBandyta.cpp.o	379e2c11cb3bb715
+8	877	1729497125468884282	CMakeFiles/Casino.dir/main.cpp.o	dde89eb64e1b35f1
+8	921	1729497125513934423	CMakeFiles/Casino.dir/src/Logowanie.cpp.o	11827bf41abab88f
+9	927	1729497125520410235	CMakeFiles/Casino.dir/src/Ruletka.cpp.o	7150f2f8028c9a11
+8	984	1729497125576502787	CMakeFiles/Casino.dir/src/Gracz.cpp.o	568d41bc0071a753
+9	1056	1729497125638678940	CMakeFiles/Casino.dir/src/BlackJack.cpp.o	33f36d48b51ccefd
+857	1565	1729497126158837242	CMakeFiles/Casino.dir/src/Menu.cpp.o	bc76826b6cc6aa31
+1565	1642	1729497126234001394	Casino	48728819ae5ace8e

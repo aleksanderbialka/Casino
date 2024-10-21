@@ -1,0 +1,3 @@
+/Users/aleksanderbialka/Desktop/STUDIA/Programowanie/C++/CLionProjects/casinoo/cmake-build-debug/CMakeFiles/Casino.dir
+/Users/aleksanderbialka/Desktop/STUDIA/Programowanie/C++/CLionProjects/casinoo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aleksanderbialka/Desktop/STUDIA/Programowanie/C++/CLionProjects/casinoo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
