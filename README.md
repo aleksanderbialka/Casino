@@ -1,6 +1,6 @@
 # Casino
 
-Jest to prosta symulacja gry kasynowej napisana w **C++**. Zawiera kilka popularnych gier kasynowych, takich jak:
+Jest to prosta symulacja gry kasynowej napisana w **C++** jako projekt zaliczeniowy. Zawiera kilka popularnych gier kasynowych, takich jak:
 
 - **Jednoręki Bandyta**: Gra na automacie, gdzie gracze mogą obstawiać pieniądze i wygrywać dopasowując symbole.
 - **Ruletka**: Klasyczna gra kasynowa, w której gracze mogą obstawiać kolory, numery, parzyste/nieparzyste, oraz zakresy liczb.
